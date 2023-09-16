@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufkarabocekz&show_icons=true&locale=en" alt="yusufkarabocekz" /></p>
 
-![snake gif](https://github.com/yusufkarabocekz/yusufkarabocekz/blob/output/github-contribution-grid-snake.gif)
+
