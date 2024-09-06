@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate embedded system developer from turkey</h3>
 
-- 🔭 I’m currently working on [Flight Controller](https://github.com/yusufkarabocekz/Flight-Controller-)
+- 🔭 I’m currently working on [STM32_Tutorials](https://github.com/yusufkarabocekz/STM32_Tutorials)
 
 - 🌱 I’m currently learning **Altium Designer, STM32**
 
