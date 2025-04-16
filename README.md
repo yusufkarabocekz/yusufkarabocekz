@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [cloud-based-tracking-system-for-mobile-units](https://github.com/yusufkarabocekz/cloud-based-tracking-system-for-mobile-units)
 
-- 🌱 I’m currently learning **Altium Designer, STM32**
+- 🌱 I’m currently learning **Kicad, Embedded Software**
 
 - 📫 How to reach me **yusufkarabocekz@gmail.com**
 
