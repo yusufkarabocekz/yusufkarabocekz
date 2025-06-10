@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate embedded system developer from turkey</h3>
 
-- 🔭 I’m currently working on [cloud-based-tracking-system-for-mobile-units](https://github.com/yusufkarabocekz/cloud-based-tracking-system-for-mobile-units)
+- 🔭 I’m currently working on [hardware-design](https://github.com/yusufkarabocekz/hardware-design-)
 
 - 🌱 I’m currently learning **Kicad, Embedded Software**
 
