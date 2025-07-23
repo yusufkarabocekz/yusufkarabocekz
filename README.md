@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate embedded system developer from turkey</h3>
 
-- 🔭 I’m currently working on [icm42688-driver](https://github.com/yusufkarabocekz/icm42688-driver/tree/main/icm-42688-p-driver)
+- 🔭 I’m currently working on [Industrial Sensor Module](https://github.com/yusufkarabocekz/Industrial-Sensor-Module)
 
 - 🌱 I’m currently learning **Kicad, Embedded Software**
 
