@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Industrial Sensor Module](https://github.com/yusufkarabocekz/Industrial-Sensor-Module)
 
-- 🌱 I’m currently learning **Kicad, Embedded Software**
+- 🌱 I’m currently learning **Kicad, Embedded Software.**
 
 - 📫 How to reach me **yusufkarabocekz@gmail.com**
 
